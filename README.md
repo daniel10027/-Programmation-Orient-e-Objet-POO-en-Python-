@@ -174,19 +174,12 @@ Dans ce cours, vous avez appris à :
 
 ---
 
-## 📽 Cours recommandé
-
-🎥 *Intro to Object-Oriented Programming in Python – Real Python*  
-https://realpython.com/courses/oop-python/
-
----
-
 ## 👨‍🏫 Auteur
 
 **Jean Marie Daniel Vianney Guedegbe**  
 Senior Backend Developer | Passionné de Python, Clean Architecture, et pédagogie technique
 
-GitHub : [@gdaniel-dev](https://github.com/gdaniel10027)  
+GitHub : [@daniel10027](https://github.com/gdaniel10027)  
 
 ---
 
